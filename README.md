@@ -236,7 +236,7 @@ I use Polkdot-JS API UI to add the keys to the keystore.
   --validator \
   --rpc-methods Unsafe \
   --name MyNode02 \
-  --bootnodes /ip4/127.0.0.1/tcp/30333/p2p/12D3KooWS1Veq29c5xTFDgYS4GbdV9c7MVBP5nWzaA9rR8aLYapx
+  --bootnodes /ip4/127.0.0.1/tcp/30333/p2p/12D3KooWMckdeF4gLPJNZR8Z7XnTFDWz1c88w7M8nRyVF1hjws9q
   # you MUST fill the correct info in the line above:
   # --bootnodes /ip4/<IP Address>/tcp/<p2p Port>/p2p/<Peer ID>
 ```
